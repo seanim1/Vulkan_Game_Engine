@@ -8,5 +8,3 @@ This project serves as as an evidence that I watched and followed Brendan Galea'
 
 Most useful thing it can do at the moment is applying transformation matrices to a cube.
 I do not recommend downloading it.
-
-Thanks!
