@@ -9,7 +9,7 @@ The purpose of this repo is to simply say that I watched and followed Brendan Ga
 Most useful thing it can do at the moment is applying transformation matrices to a cube.
 I do not recommend downloading it.
 
-I honestly feel like I have spent way too much time trying to learn Vulkan, when it was not the right tool for me.
+I honestly feel like I have spent way too much time trying to learn Vulkan, when it was not the right tool for me, yet.
 
 How to install: 
 Download the library folder from here ( https://drive.google.com/file/d/15m8Zy_3O-bI-ZHLOx-pMszVTMwiW3r5k/view?usp=sharing ), then place the "Libraries" folder in the Game_Engine_Vulkan/Game_Engine_Vulkan/ directory.
