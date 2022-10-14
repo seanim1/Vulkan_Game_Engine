@@ -6,7 +6,7 @@ Upon opening it, it renders a cube with Blinn-Phong Material.
 
 The purpose of this repo is to simply say that I watched and followed Brendan Galea's tutorial.
 
-Most useful thing it can do at the moment is applying transformation matrices to a cube.
+Most useful thing it can do at the moment is applying transformation matrices to a cube with Blinn-Phong Material.
 I do not recommend downloading it.
 
 I honestly feel like I have spent way too much time trying to learn Vulkan, when it was not the right tool for me, yet.
