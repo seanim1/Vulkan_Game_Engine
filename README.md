@@ -2,7 +2,12 @@
 
 Completely based on the tutorial of Brendan Galea upto part 27 ( https://www.youtube.com/c/BrendanGalea )
 
-Upon opening it, it renders a cube with Blinn-Phong Material and multiple point lights.
+Here are some features:
+  - Blinn-Phong Material
+  - Multiple point lights
+  - Loading .obj files
+  - Alpha blending / Transparency (Limitation: the order of objects matter)
+  - Controller for rotation and translation of objects
 
 The purpose of this repo is to serve as a proof that I watched and followed Brendan Galea's tutorial.
 
