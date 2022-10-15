@@ -9,6 +9,10 @@ Here are some features:
   - Alpha blending / Transparency (Limitation: the order of objects matter)
   - Controller for rotation and translation of objects
 
+<div class="row">
+  <img src="Capture10.PNG?raw=true" width="500">
+</div>
+
 The purpose of this repo is to serve as a proof that I watched and followed Brendan Galea's tutorial, and of course education.
 
 How to install: 
@@ -22,7 +26,3 @@ The libraries include:
   - tiny_obj_loader
 
 I do feel as though I have spent way too much time trying to learn Vulkan, when it was not the right tool for me, yet.
-
-<div class="row">
-  <img src="Capture10.PNG?raw=true" width="500">
-</div>
