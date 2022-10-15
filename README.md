@@ -13,7 +13,7 @@ The purpose of this repo is to serve as a proof that I watched and followed Bren
 
 How to install: 
 
-Download the library folder from here ( https://drive.google.com/file/d/15m8Zy_3O-bI-ZHLOx-pMszVTMwiW3r5k/view?usp=sharing ), then place the "Libraries" folder in the Game_Engine_Vulkan/Game_Engine_Vulkan/ directory.
+Download the library folder from here ( https://drive.google.com/file/d/15m8Zy_3O-bI-ZHLOx-pMszVTMwiW3r5k/view?usp=sharing ), then place the "Libraries" folder in the ( Game_Engine_Vulkan/Game_Engine_Vulkan/ ) directory.
 
 The libraries include:
   - Vulkan
