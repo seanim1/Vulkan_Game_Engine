@@ -13,7 +13,7 @@ Here are some features:
   <img src="Capture10.PNG?raw=true" width="500">
 </div>
 
-How to install: 
+How to install (Tested only on Windows in Visual Studio): 
 
 Download the library folder from here ( https://drive.google.com/file/d/15m8Zy_3O-bI-ZHLOx-pMszVTMwiW3r5k/view?usp=sharing ), then place the "Libraries" folder in the ( Game_Engine_Vulkan/Game_Engine_Vulkan/ ) directory.
 
