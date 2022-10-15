@@ -23,6 +23,11 @@ The libraries include:
   - glm
   - tiny_obj_loader
 
+Controls:
+  - Use Q and E to move up and down.
+  - Use WASD to move on XY Plane.
+  - Use Arrow keys to move camera.
+
 I do feel as though I have spent way too much time trying to learn Vulkan, when it was not the right tool for me, yet.
 
 The purpose of this repo is to serve as a proof that I watched and followed Brendan Galea's tutorial, and of course education.
